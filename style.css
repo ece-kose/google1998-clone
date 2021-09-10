@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
+
+table tr td p {
+    margin: 0px;
+}
+
+#first {
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: auto;
+}
+
+footer p {
+    text-align: center;
+    font-size: small;
+}
